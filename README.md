@@ -2,4 +2,4 @@
 Cancer-project
 
 
-备注：桑基图中的sankey.html需要配合sankey_files文件夹一起使用
+备注：四川大学计算机学院凡世伟毕业设计结果附录
