@@ -1,0 +1,1186 @@
+disease,drug
+Anal Cancer,Recombinant HPV Quadrivalent Vaccine
+Anal Cancer,Recombinant HPV Nonavalent Vaccine
+Anal Cancer,Recombinant Human Papillomavirus (HPV) Nonavalent Vaccine
+Anal Cancer,Recombinant Human Papillomavirus (HPV) Quadrivalent Vaccine
+BLCA,Atezolizumab
+BLCA,Avelumab
+BLCA,Erdafitinib
+BLCA,Avelumab
+BLCA,Cisplatin
+BLCA,Doxorubicin Hydrochloride
+BLCA,Durvalumab
+BLCA,Enfortumab Vedotin-ejfv
+BLCA,Erdafitinib
+BLCA,Durvalumab
+BLCA,Mitomycin
+BLCA,Pembrolizumab
+BLCA,Mitomycin
+BLCA,Nivolumab
+BLCA,Nivolumab
+BLCA,Enfortumab Vedotin-ejfv
+BLCA,Pembrolizumab
+BLCA,Atezolizumab
+BLCA,Thiotepa
+BLCA,Valrubicin
+BLCA,Valrubicin
+BLCA,GEMCITABINE-CISPLATIN
+BLCA,MVAC
+Bone Cancer,Dactinomycin
+Bone Cancer,Dactinomycin
+Bone Cancer,Denosumab
+Bone Cancer,Doxorubicin Hydrochloride
+Bone Cancer,Methotrexate
+Bone Cancer,Methotrexate
+Bone Cancer,Denosumab
+Brain Tumors,Everolimus
+Brain Tumors,Everolimus
+Brain Tumors,Bevacizumab
+Brain Tumors,Bevacizumab
+Brain Tumors,Carmustine
+Brain Tumors,Carmustine
+Brain Tumors,Carmustine Implant
+Brain Tumors,Everolimus
+Brain Tumors,Carmustine Implant
+Brain Tumors,Lomustine
+Brain Tumors,Bevacizumab
+Brain Tumors,Temozolomide
+Brain Tumors,Temozolomide
+Brain Tumors,PCV
+BRCA,Raloxifene Hydrochloride
+BRCA,Raloxifene Hydrochloride
+BRCA,Tamoxifen Citrate
+BRCA,Abemaciclib
+BRCA,Paclitaxel Albumin-stabilized Nanoparticle Formulation
+BRCA,Ado-Trastuzumab Emtansine
+BRCA,Everolimus
+BRCA,Everolimus
+BRCA,Alpelisib
+BRCA,Anastrozole
+BRCA,Pamidronate Disodium
+BRCA,Anastrozole
+BRCA,Exemestane
+BRCA,Atezolizumab
+BRCA,Capecitabine
+BRCA,Cyclophosphamide
+BRCA,Docetaxel
+BRCA,Doxorubicin Hydrochloride
+BRCA,Epirubicin Hydrochloride
+BRCA,Fam-Trastuzumab Deruxtecan-nxki
+BRCA,Epirubicin Hydrochloride
+BRCA,Eribulin Mesylate
+BRCA,Everolimus
+BRCA,Exemestane
+BRCA,Fluorouracil Injection
+BRCA,Fam-Trastuzumab Deruxtecan-nxki
+BRCA,Toremifene
+BRCA,Fulvestrant
+BRCA,Letrozole
+BRCA,Fluorouracil Injection
+BRCA,Fulvestrant
+BRCA,Gemcitabine Hydrochloride
+BRCA,Gemcitabine Hydrochloride
+BRCA,Goserelin Acetate
+BRCA,Eribulin Mesylate
+BRCA,Trastuzumab and Hyaluronidase-oysk
+BRCA,Trastuzumab
+BRCA,Palbociclib
+BRCA,Ixabepilone
+BRCA,Ixabepilone
+BRCA,Ado-Trastuzumab Emtansine
+BRCA,Ribociclib
+BRCA,Lapatinib Ditosylate
+BRCA,Letrozole
+BRCA,Olaparib
+BRCA,Megestrol Acetate
+BRCA,Methotrexate
+BRCA,Neratinib Maleate
+BRCA,Neratinib Maleate
+BRCA,Olaparib
+BRCA,Paclitaxel
+BRCA,Paclitaxel Albumin-stabilized Nanoparticle Formulation
+BRCA,Palbociclib
+BRCA,Pamidronate Disodium
+BRCA,Pertuzumab
+BRCA,Pertuzumab
+BRCA,"Pertuzumab, Trastuzumab, and Hyaluronidase-zzxf"
+BRCA,"Pertuzumab, Trastuzumab, and Hyaluronidase-zzxf"
+BRCA,Alpelisib
+BRCA,Ribociclib
+BRCA,Sacituzumab Govitecan-hziy
+BRCA,Talazoparib Tosylate
+BRCA,Talazoparib Tosylate
+BRCA,Tamoxifen Citrate
+BRCA,Taxotere (Docetaxel)
+BRCA,Atezolizumab
+BRCA,Thiotepa
+BRCA,Toremifene
+BRCA,Trastuzumab
+BRCA,Trastuzumab and Hyaluronidase-oysk
+BRCA,Trexall (Methotrexate)
+BRCA,Sacituzumab Govitecan-hziy
+BRCA,Tucatinib
+BRCA,Tucatinib
+BRCA,Lapatinib Ditosylate
+BRCA,Abemaciclib
+BRCA,Vinblastine Sulfate
+BRCA,Capecitabine
+BRCA,Goserelin Acetate
+BRCA,AC
+BRCA,AC-T
+BRCA,CAF
+BRCA,CMF
+BRCA,FEC
+BRCA,TAC
+Cervical Cancer,Recombinant HPV Bivalent Vaccine
+Cervical Cancer,Recombinant HPV Quadrivalent Vaccine
+Cervical Cancer,Recombinant HPV Nonavalent Vaccine
+Cervical Cancer,Recombinant Human Papillomavirus (HPV) Bivalent Vaccine
+Cervical Cancer,Recombinant Human Papillomavirus (HPV) Nonavalent Vaccine
+Cervical Cancer,Recombinant Human Papillomavirus (HPV) Quadrivalent Vaccine
+Cervical Cancer,Bevacizumab
+Cervical Cancer,Bevacizumab
+Cervical Cancer,Bleomycin Sulfate
+Cervical Cancer,Topotecan Hydrochloride
+Cervical Cancer,Pembrolizumab
+Cervical Cancer,Bevacizumab
+Cervical Cancer,Pembrolizumab
+Cervical Cancer,Topotecan Hydrochloride
+Cervical Cancer,Gemcitabine-Cisplatin
+COAD,Bevacizumab
+COAD,Bevacizumab
+COAD,Irinotecan Hydrochloride
+COAD,Capecitabine
+COAD,Cetuximab
+COAD,Ramucirumab
+COAD,Oxaliplatin
+COAD,Cetuximab
+COAD,Fluorouracil Injection
+COAD,Fluorouracil Injection
+COAD,Ipilimumab
+COAD,Irinotecan Hydrochloride
+COAD,Pembrolizumab
+COAD,Leucovorin Calcium
+COAD,Trifluridine and Tipiracil Hydrochloride
+COAD,Bevacizumab
+COAD,Nivolumab
+COAD,Nivolumab
+COAD,Oxaliplatin
+COAD,Panitumumab
+COAD,Pembrolizumab
+COAD,Ramucirumab
+COAD,Regorafenib
+COAD,Regorafenib
+COAD,Trifluridine and Tipiracil Hydrochloride
+COAD,Panitumumab
+COAD,Capecitabine
+COAD,Ipilimumab
+COAD,Ziv-Aflibercept
+COAD,Ziv-Aflibercept
+COAD,CAPOX
+COAD,FOLFIRI
+COAD,FOLFIRI-BEVACIZUMAB
+COAD,FOLFIRI-CETUXIMAB
+COAD,FOLFOX
+COAD,FU-LV
+COAD,XELIRI
+COAD,XELOX
+READ,Bevacizumab
+READ,Bevacizumab
+READ,Irinotecan Hydrochloride
+READ,Capecitabine
+READ,Cetuximab
+READ,Ramucirumab
+READ,Oxaliplatin
+READ,Cetuximab
+READ,Fluorouracil Injection
+READ,Fluorouracil Injection
+READ,Ipilimumab
+READ,Irinotecan Hydrochloride
+READ,Pembrolizumab
+READ,Leucovorin Calcium
+READ,Trifluridine and Tipiracil Hydrochloride
+READ,Bevacizumab
+READ,Nivolumab
+READ,Nivolumab
+READ,Oxaliplatin
+READ,Panitumumab
+READ,Pembrolizumab
+READ,Ramucirumab
+READ,Regorafenib
+READ,Regorafenib
+READ,Trifluridine and Tipiracil Hydrochloride
+READ,Panitumumab
+READ,Capecitabine
+READ,Ipilimumab
+READ,Ziv-Aflibercept
+READ,Ziv-Aflibercept
+READ,CAPOX
+READ,FOLFIRI
+READ,FOLFIRI-BEVACIZUMAB
+READ,FOLFIRI-CETUXIMAB
+READ,FOLFOX
+READ,FU-LV
+READ,XELIRI
+READ,XELOX
+Gastroenteropancreatic Neuroendocrine Tumors,Everolimus
+Gastroenteropancreatic Neuroendocrine Tumors,Everolimus
+Gastroenteropancreatic Neuroendocrine Tumors,Lanreotide Acetate
+Gastroenteropancreatic Neuroendocrine Tumors,Lanreotide Acetate
+UCEC,Pembrolizumab
+UCEC,Lenvatinib Mesylate
+UCEC,Lenvatinib Mesylate
+UCEC,Megestrol Acetate
+UCEC,Pembrolizumab
+ESCA,Pembrolizumab
+ESCA,Nivolumab
+ESCA,Nivolumab
+ESCA,Pembrolizumab
+ESCA,FU-LV
+ESCA,XELIRI
+ESCA,Ramucirumab
+ESCA,Docetaxel
+ESCA,Trastuzumab
+ESCA,Pembrolizumab
+ESCA,Trifluridine and Tipiracil Hydrochloride
+ESCA,Pembrolizumab
+ESCA,Ramucirumab
+ESCA,Docetaxel
+ESCA,Trastuzumab
+ESCA,Trifluridine and Tipiracil Hydrochloride
+Gastrointestinal Stromal Tumors,Avapritinib
+Gastrointestinal Stromal Tumors,Avapritinib
+Gastrointestinal Stromal Tumors,Imatinib Mesylate
+Gastrointestinal Stromal Tumors,Imatinib Mesylate
+Gastrointestinal Stromal Tumors,Ripretinib
+Gastrointestinal Stromal Tumors,Regorafenib
+Gastrointestinal Stromal Tumors,Ripretinib
+Gastrointestinal Stromal Tumors,Regorafenib
+Gastrointestinal Stromal Tumors,Sunitinib Malate
+Gastrointestinal Stromal Tumors,Sunitinib Malate
+Gestational Trophoblastic Disease,Dactinomycin
+Gestational Trophoblastic Disease,Dactinomycin
+Gestational Trophoblastic Disease,Methotrexate
+Gestational Trophoblastic Disease,Methotrexate
+Gestational Trophoblastic Disease,Vinblastine Sulfate
+Head and Neck Cancer,Bleomycin Sulfate
+Head and Neck Cancer,Cetuximab
+Head and Neck Cancer,Docetaxel
+Head and Neck Cancer,Cetuximab
+Head and Neck Cancer,Hydroxyurea
+Head and Neck Cancer,Hydroxyurea
+Head and Neck Cancer,Pembrolizumab
+Head and Neck Cancer,Methotrexate
+Head and Neck Cancer,Nivolumab
+Head and Neck Cancer,Nivolumab
+Head and Neck Cancer,Pembrolizumab
+Head and Neck Cancer,Docetaxel
+Head and Neck Cancer,Methotrexate
+Head and Neck Cancer,TPF
+Hodgkin Lymphoma,Brentuximab Vedotin
+Hodgkin Lymphoma,Carmustine
+Hodgkin Lymphoma,Bleomycin Sulfate
+Hodgkin Lymphoma,Brentuximab Vedotin?
+Hodgkin Lymphoma,Carmustine
+Hodgkin Lymphoma,Chlorambucil
+Hodgkin Lymphoma,Cyclophosphamide
+Hodgkin Lymphoma,Dacarbazine
+Hodgkin Lymphoma,Dexamethasone
+Hodgkin Lymphoma,Doxorubicin Hydrochloride
+Hodgkin Lymphoma,Pembrolizumab
+Hodgkin Lymphoma,Chlorambucil
+Hodgkin Lymphoma,Lomustine
+Hodgkin Lymphoma,Procarbazine Hydrochloride
+Hodgkin Lymphoma,Mechlorethamine Hydrochloride
+Hodgkin Lymphoma,Mechlorethamine Hydrochloride
+Hodgkin Lymphoma,Nivolumab
+Hodgkin Lymphoma,Nivolumab
+Hodgkin Lymphoma,Pembrolizumab
+Hodgkin Lymphoma,Prednisone
+Hodgkin Lymphoma,Procarbazine Hydrochloride
+Hodgkin Lymphoma,Vinblastine Sulfate
+Hodgkin Lymphoma,Vincristine Sulfate
+Hodgkin Lymphoma,ABVD
+Hodgkin Lymphoma,ABVE
+Hodgkin Lymphoma,ABVE-PC
+Hodgkin Lymphoma,BEACOPP
+Hodgkin Lymphoma,COPDAC
+Hodgkin Lymphoma,COPP
+Hodgkin Lymphoma,COPP-ABV
+Hodgkin Lymphoma,ICE
+Hodgkin Lymphoma,MOPP
+Hodgkin Lymphoma,OEPA
+Hodgkin Lymphoma,OPPA
+Hodgkin Lymphoma,STANFORD V
+Hodgkin Lymphoma,VAMP
+Kaposi Sarcoma,Doxorubicin Hydrochloride Liposome
+Kaposi Sarcoma,Doxorubicin Hydrochloride Liposome
+Kaposi Sarcoma,Recombinant Interferon Alfa-2b
+Kaposi Sarcoma,Paclitaxel
+Kaposi Sarcoma,Pomalidomide
+Kaposi Sarcoma,Pomalidomide
+Kaposi Sarcoma,Recombinant Interferon Alfa-2b
+Kaposi Sarcoma,Vinblastine Sulfate
+KICH,Everolimus
+KICH,Everolimus
+KICH,Aldesleukin
+KICH,Bevacizumab
+KICH,Avelumab
+KICH,Axitinib
+KICH,Avelumab
+KICH,Bevacizumab
+KICH,Cabozantinib-S-Malate
+KICH,Cabozantinib-S-Malate
+KICH,Everolimus
+KICH,Aldesleukin
+KICH,Axitinib
+KICH,Aldesleukin
+KICH,Ipilimumab
+KICH,Mitomycin
+KICH,Pembrolizumab
+KICH,Lenvatinib Mesylate
+KICH,Lenvatinib Mesylate
+KICH,Mitomycin
+KICH,Bevacizumab
+KICH,Sorafenib Tosylate
+KICH,Nivolumab
+KICH,Nivolumab
+KICH,Pazopanib Hydrochloride
+KICH,Pembrolizumab
+KICH,Aldesleukin
+KICH,Sorafenib Tosylate
+KICH,Sunitinib Malate
+KICH,Sunitinib Malate
+KICH,Temsirolimus
+KICH,Temsirolimus
+KICH,Pazopanib Hydrochloride
+KICH,Ipilimumab
+KIRC,Everolimus
+KIRC,Everolimus
+KIRC,Aldesleukin
+KIRC,Bevacizumab
+KIRC,Avelumab
+KIRC,Axitinib
+KIRC,Avelumab
+KIRC,Bevacizumab
+KIRC,Cabozantinib-S-Malate
+KIRC,Cabozantinib-S-Malate
+KIRC,Everolimus
+KIRC,Aldesleukin
+KIRC,Axitinib
+KIRC,Aldesleukin
+KIRC,Ipilimumab
+KIRC,Mitomycin
+KIRC,Pembrolizumab
+KIRC,Lenvatinib Mesylate
+KIRC,Lenvatinib Mesylate
+KIRC,Mitomycin
+KIRC,Bevacizumab
+KIRC,Sorafenib Tosylate
+KIRC,Nivolumab
+KIRC,Nivolumab
+KIRC,Pazopanib Hydrochloride
+KIRC,Pembrolizumab
+KIRC,Aldesleukin
+KIRC,Sorafenib Tosylate
+KIRC,Sunitinib Malate
+KIRC,Sunitinib Malate
+KIRC,Temsirolimus
+KIRC,Temsirolimus
+KIRC,Pazopanib Hydrochloride
+KIRC,Ipilimumab
+KIRP,Everolimus
+KIRP,Everolimus
+KIRP,Aldesleukin
+KIRP,Bevacizumab
+KIRP,Avelumab
+KIRP,Axitinib
+KIRP,Avelumab
+KIRP,Bevacizumab
+KIRP,Cabozantinib-S-Malate
+KIRP,Cabozantinib-S-Malate
+KIRP,Everolimus
+KIRP,Aldesleukin
+KIRP,Axitinib
+KIRP,Aldesleukin
+KIRP,Ipilimumab
+KIRP,Mitomycin
+KIRP,Pembrolizumab
+KIRP,Lenvatinib Mesylate
+KIRP,Lenvatinib Mesylate
+KIRP,Mitomycin
+KIRP,Bevacizumab
+KIRP,Sorafenib Tosylate
+KIRP,Nivolumab
+KIRP,Nivolumab
+KIRP,Pazopanib Hydrochloride
+KIRP,Pembrolizumab
+KIRP,Aldesleukin
+KIRP,Sorafenib Tosylate
+KIRP,Sunitinib Malate
+KIRP,Sunitinib Malate
+KIRP,Temsirolimus
+KIRP,Temsirolimus
+KIRP,Pazopanib Hydrochloride
+KIRP,Ipilimumab
+Leukemia,Nelarabine
+Leukemia,Asparaginase Erwinia chrysanthemi
+Leukemia,Calaspargase Pegol-mknl
+Leukemia,Inotuzumab Ozogamicin
+Leukemia,Blinatumomab
+Leukemia,Blinatumomab
+Leukemia,Calaspargase Pegol-mknl
+Leukemia,Daunorubicin Hydrochloride
+Leukemia,Clofarabine
+Leukemia,Clofarabine
+Leukemia,Cyclophosphamide
+Leukemia,Cytarabine
+Leukemia,Dasatinib
+Leukemia,Daunorubicin Hydrochloride
+Leukemia,Dexamethasone
+Leukemia,Doxorubicin Hydrochloride
+Leukemia,Asparaginase Erwinia Chrysanthemi
+Leukemia,Imatinib Mesylate
+Leukemia,Ponatinib Hydrochloride
+Leukemia,Inotuzumab Ozogamicin
+Leukemia,Imatinib Mesylate
+Leukemia,Tisagenlecleucel
+Leukemia,Vincristine Sulfate Liposome
+Leukemia,Mercaptopurine
+Leukemia,Methotrexate
+Leukemia,Nelarabine
+Leukemia,Pegaspargase
+Leukemia,Pegaspargase
+Leukemia,Ponatinib Hydrochloride
+Leukemia,Prednisone
+Leukemia,Mercaptopurine
+Leukemia,Mercaptopurine
+Leukemia,Daunorubicin Hydrochloride
+Leukemia,Dasatinib
+Leukemia,Tisagenlecleucel
+Leukemia,Methotrexate
+Leukemia,Vincristine Sulfate
+Leukemia,Vincristine Sulfate Liposome
+Leukemia,Hyper-CVAD
+Leukemia,Arsenic Trioxide
+Leukemia,Daunorubicin Hydrochloride
+Leukemia,Cyclophosphamide
+Leukemia,Cytarabine
+Leukemia,Daunorubicin Hydrochloride
+Leukemia,Daunorubicin Hydrochloride and Cytarabine Liposome
+Leukemia,Glasdegib Maleate
+Leukemia,Dexamethasone
+Leukemia,Doxorubicin Hydrochloride
+Leukemia,Enasidenib Mesylate
+Leukemia,Gemtuzumab Ozogamicin
+Leukemia,Gilteritinib Fumarate
+Leukemia,Glasdegib Maleate
+Leukemia,Idarubicin Hydrochloride
+Leukemia,Idarubicin Hydrochloride
+Leukemia,Enasidenib Mesylate
+Leukemia,Ivosidenib
+Leukemia,Midostaurin
+Leukemia,Mitoxantrone Hydrochloride
+Leukemia,Gemtuzumab Ozogamicin
+Leukemia,Daunorubicin Hydrochloride
+Leukemia,Midostaurin
+Leukemia,Thioguanine
+Leukemia,Thioguanine
+Leukemia,Ivosidenib
+Leukemia,Arsenic Trioxide
+Leukemia,Venetoclax
+Leukemia,Venetoclax
+Leukemia,Vincristine Sulfate
+Leukemia,Daunorubicin Hydrochloride and Cytarabine Liposome
+Leukemia,Gilteritinib Fumarate
+Leukemia,ADE
+Leukemia,Tagraxofusp-erzs
+Leukemia,Tagraxofusp-erzs
+Leukemia,Acalabrutinib
+Leukemia,Alemtuzumab
+Leukemia,Ofatumumab
+Leukemia,Bendamustine Hydrochloride
+Leukemia,Bendamustine Hydrochloride
+Leukemia,Acalabrutinib
+Leukemia,Alemtuzumab
+Leukemia,Chlorambucil
+Leukemia,Duvelisib
+Leukemia,Cyclophosphamide
+Leukemia,Dexamethasone
+Leukemia,Duvelisib
+Leukemia,Fludarabine Phosphate
+Leukemia,Obinutuzumab
+Leukemia,Ibrutinib
+Leukemia,Idelalisib
+Leukemia,Ibrutinib
+Leukemia,Chlorambucil
+Leukemia,Mechlorethamine Hydrochloride
+Leukemia,Mechlorethamine Hydrochloride
+Leukemia,Obinutuzumab
+Leukemia,Ofatumumab
+Leukemia,Prednisone
+Leukemia,Rituximab
+Leukemia,Rituximab and Hyaluronidase Human
+Leukemia,Rituximab
+Leukemia,Rituximab and Hyaluronidase Human
+Leukemia,Bendamustine Hydrochloride
+Leukemia,Rituximab
+Leukemia,Venetoclax
+Leukemia,Venetoclax
+Leukemia,Idelalisib
+Leukemia,CHLORAMBUCIL-PREDNISONE
+Leukemia,CVP
+Leukemia,Bosutinib
+Leukemia,Bosutinib
+Leukemia,Busulfan
+Leukemia,Busulfan
+Leukemia,Cyclophosphamide
+Leukemia,Cytarabine
+Leukemia,Dasatinib
+Leukemia,Dexamethasone
+Leukemia,Imatinib Mesylate
+Leukemia,Hydroxyurea
+Leukemia,Hydroxyurea
+Leukemia,Ponatinib Hydrochloride
+Leukemia,Imatinib Mesylate
+Leukemia,Mechlorethamine Hydrochloride
+Leukemia,Mechlorethamine Hydrochloride
+Leukemia,Busulfan
+Leukemia,Nilotinib
+Leukemia,Omacetaxine Mepesuccinate
+Leukemia,Ponatinib Hydrochloride
+Leukemia,Dasatinib
+Leukemia,Omacetaxine Mepesuccinate
+Leukemia,Nilotinib
+Leukemia,Cladribine
+Leukemia,Recombinant Interferon Alfa-2b
+Leukemia,Moxetumomab Pasudotox-tdfk
+Leukemia,Moxetumomab Pasudotox-tdfk
+Leukemia,Recombinant Interferon Alfa-2b
+Leukemia,Midostaurin
+Leukemia,Midostaurin
+Leukemia,Cytarabine
+LIHC,Atezolizumab
+LIHC,Bevacizumab
+LIHC,Bevacizumab
+LIHC,Cabozantinib-S-Malate
+LIHC,Cabozantinib-S-Malate
+LIHC,Ramucirumab
+LIHC,Pembrolizumab
+LIHC,Lenvatinib Mesylate
+LIHC,Lenvatinib Mesylate
+LIHC,Sorafenib Tosylate
+LIHC,Nivolumab
+LIHC,Nivolumab
+LIHC,Pemigatinib
+LIHC,Pembrolizumab
+LIHC,Pemigatinib
+LIHC,Ramucirumab
+LIHC,Regorafenib
+LIHC,Sorafenib Tosylate
+LIHC,Regorafenib
+LIHC,Atezolizumab
+LUAD,Paclitaxel Albumin-stabilized Nanoparticle Formulation
+LUAD,Afatinib Dimaleate
+LUAD,Everolimus
+LUAD,Everolimus
+LUAD,Alectinib
+LUAD,Alectinib
+LUAD,Pemetrexed Disodium
+LUAD,Brigatinib
+LUAD,Atezolizumab
+LUAD,Bevacizumab
+LUAD,Bevacizumab
+LUAD,Brigatinib
+LUAD,Capmatinib Hydrochloride
+LUAD,Carboplatin
+LUAD,Ceritinib
+LUAD,Crizotinib
+LUAD,Ramucirumab
+LUAD,Dabrafenib Mesylate
+LUAD,Dacomitinib
+LUAD,Docetaxel
+LUAD,Doxorubicin Hydrochloride
+LUAD,Durvalumab
+LUAD,Entrectinib
+LUAD,Erlotinib Hydrochloride
+LUAD,Everolimus
+LUAD,Gefitinib
+LUAD,Afatinib Dimaleate
+LUAD,Gemcitabine Hydrochloride
+LUAD,Gemcitabine Hydrochloride
+LUAD,Durvalumab
+LUAD,Ipilimumab
+LUAD,Gefitinib
+LUAD,Pembrolizumab
+LUAD,Lorlatinib
+LUAD,Lorlatinib
+LUAD,Mechlorethamine Hydrochloride
+LUAD,Trametinib
+LUAD,Methotrexate
+LUAD,Mechlorethamine Hydrochloride
+LUAD,Bevacizumab
+LUAD,Necitumumab
+LUAD,Nivolumab
+LUAD,Nivolumab
+LUAD,Osimertinib Mesylate
+LUAD,Paclitaxel
+LUAD,Paclitaxel Albumin-stabilized Nanoparticle Formulation
+LUAD,Carboplatin
+LUAD,Carboplatin
+LUAD,Pembrolizumab
+LUAD,Pemetrexed Disodium
+LUAD,Necitumumab
+LUAD,Ramucirumab
+LUAD,Selpercatinib
+LUAD,Entrectinib
+LUAD,Selpercatinib
+LUAD,Capmatinib Hydrochloride
+LUAD,Dabrafenib Mesylate
+LUAD,Osimertinib Mesylate
+LUAD,Erlotinib Hydrochloride
+LUAD,Docetaxel
+LUAD,Atezolizumab
+LUAD,Trametinib
+LUAD,Methotrexate
+LUAD,Dacomitinib
+LUAD,Vinorelbine Tartrate
+LUAD,Crizotinib
+LUAD,Ipilimumab
+LUAD,Ceritinib
+LUSC,Paclitaxel Albumin-stabilized Nanoparticle Formulation
+LUSC,Afatinib Dimaleate
+LUSC,Everolimus
+LUSC,Everolimus
+LUSC,Alectinib
+LUSC,Alectinib
+LUSC,Pemetrexed Disodium
+LUSC,Brigatinib
+LUSC,Atezolizumab
+LUSC,Bevacizumab
+LUSC,Bevacizumab
+LUSC,Brigatinib
+LUSC,Capmatinib Hydrochloride
+LUSC,Carboplatin
+LUSC,Ceritinib
+LUSC,Crizotinib
+LUSC,Ramucirumab
+LUSC,Dabrafenib Mesylate
+LUSC,Dacomitinib
+LUSC,Docetaxel
+LUSC,Doxorubicin Hydrochloride
+LUSC,Durvalumab
+LUSC,Entrectinib
+LUSC,Erlotinib Hydrochloride
+LUSC,Everolimus
+LUSC,Gefitinib
+LUSC,Afatinib Dimaleate
+LUSC,Gemcitabine Hydrochloride
+LUSC,Gemcitabine Hydrochloride
+LUSC,Durvalumab
+LUSC,Ipilimumab
+LUSC,Gefitinib
+LUSC,Pembrolizumab
+LUSC,Lorlatinib
+LUSC,Lorlatinib
+LUSC,Mechlorethamine Hydrochloride
+LUSC,Trametinib
+LUSC,Methotrexate
+LUSC,Mechlorethamine Hydrochloride
+LUSC,Bevacizumab
+LUSC,Necitumumab
+LUSC,Nivolumab
+LUSC,Nivolumab
+LUSC,Osimertinib Mesylate
+LUSC,Paclitaxel
+LUSC,Paclitaxel Albumin-stabilized Nanoparticle Formulation
+LUSC,Carboplatin
+LUSC,Carboplatin
+LUSC,Pembrolizumab
+LUSC,Pemetrexed Disodium
+LUSC,Necitumumab
+LUSC,Ramucirumab
+LUSC,Selpercatinib
+LUSC,Entrectinib
+LUSC,Selpercatinib
+LUSC,Capmatinib Hydrochloride
+LUSC,Dabrafenib Mesylate
+LUSC,Osimertinib Mesylate
+LUSC,Erlotinib Hydrochloride
+LUSC,Docetaxel
+LUSC,Atezolizumab
+LUSC,Trametinib
+LUSC,Methotrexate
+LUSC,Dacomitinib
+LUSC,Vinorelbine Tartrate
+LUSC,Crizotinib
+LUSC,Ipilimumab
+LUSC,Ceritinib
+LUAD,CARBOPLATIN-TAXOL
+LUAD,GEMCITABINE-CISPLATIN
+LUSC,CARBOPLATIN-TAXOL
+LUSC,GEMCITABINE-CISPLATIN
+LUAD,Everolimus
+LUAD,Atezolizumab
+LUAD,Doxorubicin Hydrochloride
+LUAD,Durvalumab
+LUAD,Etoposide Phosphate
+LUAD,Etoposide
+LUAD,Etoposide Phosphate
+LUAD,Everolimus
+LUAD,Topotecan Hydrochloride
+LUAD,Durvalumab
+LUAD,Pembrolizumab
+LUAD,Lurbinectedin
+LUAD,Mechlorethamine Hydrochloride
+LUAD,Methotrexate
+LUAD,Mechlorethamine Hydrochloride
+LUAD,Nivolumab
+LUAD,Nivolumab
+LUAD,Pembrolizumab
+LUAD,Atezolizumab
+LUAD,Topotecan Hydrochloride
+LUAD,Methotrexate
+LUAD,Lurbinectedin
+LUSC,Everolimus
+LUSC,Atezolizumab
+LUSC,Doxorubicin Hydrochloride
+LUSC,Durvalumab
+LUSC,Etoposide Phosphate
+LUSC,Etoposide
+LUSC,Etoposide Phosphate
+LUSC,Everolimus
+LUSC,Topotecan Hydrochloride
+LUSC,Durvalumab
+LUSC,Pembrolizumab
+LUSC,Lurbinectedin
+LUSC,Mechlorethamine Hydrochloride
+LUSC,Methotrexate
+LUSC,Mechlorethamine Hydrochloride
+LUSC,Nivolumab
+LUSC,Nivolumab
+LUSC,Pembrolizumab
+LUSC,Atezolizumab
+LUSC,Topotecan Hydrochloride
+LUSC,Methotrexate
+LUSC,Lurbinectedin
+Malignant Mesothelioma,Pemetrexed Disodium
+Malignant Mesothelioma,Pemetrexed Disodium
+Malignant Mesothelioma,GEMCITABINE-CISPLATIN
+Melanoma,Aldesleukin
+Melanoma,Binimetinib
+Melanoma,Encorafenib
+Melanoma,Cobimetinib?Fumarate
+Melanoma,Cobimetinib Fumarate
+Melanoma,Dabrafenib Mesylate
+Melanoma,Dacarbazine
+Melanoma,Encorafenib
+Melanoma,Aldesleukin
+Melanoma,Talimogene Laherparepvec
+Melanoma,Aldesleukin
+Melanoma,Recombinant Interferon Alfa-2b
+Melanoma,Ipilimumab
+Melanoma,Pembrolizumab
+Melanoma,Trametinib
+Melanoma,Binimetinib
+Melanoma,Nivolumab
+Melanoma,Nivolumab
+Melanoma,Peginterferon Alfa-2b
+Melanoma,Peginterferon Alfa-2b
+Melanoma,Pembrolizumab
+Melanoma,Aldesleukin
+Melanoma,Recombinant Interferon Alfa-2b
+Melanoma,Peginterferon Alfa-2b
+Melanoma,Dabrafenib Mesylate
+Melanoma,Talimogene Laherparepvec
+Melanoma,Trametinib
+Melanoma,Vemurafenib
+Melanoma,Ipilimumab
+Melanoma,Vemurafenib
+Multicentric Castleman Disease,Siltuximab
+Multicentric Castleman Disease,Siltuximab
+Multiple Myeloma and Other Plasma Cell Neoplasms,Melphalan Hydrochloride
+Multiple Myeloma and Other Plasma Cell Neoplasms,Melphalan
+Multiple Myeloma and Other Plasma Cell Neoplasms,Pamidronate Disodium
+Multiple Myeloma and Other Plasma Cell Neoplasms,Carmustine
+Multiple Myeloma and Other Plasma Cell Neoplasms,Bortezomib
+Multiple Myeloma and Other Plasma Cell Neoplasms,Carfilzomib
+Multiple Myeloma and Other Plasma Cell Neoplasms,Carmustine
+Multiple Myeloma and Other Plasma Cell Neoplasms,Cyclophosphamide
+Multiple Myeloma and Other Plasma Cell Neoplasms,Daratumumab
+Multiple Myeloma and Other Plasma Cell Neoplasms,Daratumumab and Hyaluronidase-fihj
+Multiple Myeloma and Other Plasma Cell Neoplasms,Daratumumab
+Multiple Myeloma and Other Plasma Cell Neoplasms,Daratumumab and Hyaluronidase-fihj
+Multiple Myeloma and Other Plasma Cell Neoplasms,Doxorubicin Hydrochloride Liposome
+Multiple Myeloma and Other Plasma Cell Neoplasms,Doxorubicin Hydrochloride Liposome
+Multiple Myeloma and Other Plasma Cell Neoplasms,Elotuzumab
+Multiple Myeloma and Other Plasma Cell Neoplasms,Elotuzumab
+Multiple Myeloma and Other Plasma Cell Neoplasms,Melphalan Hydrochloride
+Multiple Myeloma and Other Plasma Cell Neoplasms,Panobinostat
+Multiple Myeloma and Other Plasma Cell Neoplasms,Isatuximab-irfc
+Multiple Myeloma and Other Plasma Cell Neoplasms,Ixazomib Citrate
+Multiple Myeloma and Other Plasma Cell Neoplasms,Carfilzomib
+Multiple Myeloma and Other Plasma Cell Neoplasms,Lenalidomide
+Multiple Myeloma and Other Plasma Cell Neoplasms,Melphalan
+Multiple Myeloma and Other Plasma Cell Neoplasms,Melphalan Hydrochloride
+Multiple Myeloma and Other Plasma Cell Neoplasms,Plerixafor
+Multiple Myeloma and Other Plasma Cell Neoplasms,Ixazomib Citrate
+Multiple Myeloma and Other Plasma Cell Neoplasms,Pamidronate Disodium
+Multiple Myeloma and Other Plasma Cell Neoplasms,Panobinostat
+Multiple Myeloma and Other Plasma Cell Neoplasms,Plerixafor
+Multiple Myeloma and Other Plasma Cell Neoplasms,Pomalidomide
+Multiple Myeloma and Other Plasma Cell Neoplasms,Pomalidomide
+Multiple Myeloma and Other Plasma Cell Neoplasms,Lenalidomide
+Multiple Myeloma and Other Plasma Cell Neoplasms,Isatuximab-irfc
+Multiple Myeloma and Other Plasma Cell Neoplasms,Selinexor
+Multiple Myeloma and Other Plasma Cell Neoplasms,Thalidomide
+Multiple Myeloma and Other Plasma Cell Neoplasms,Thalidomide
+Multiple Myeloma and Other Plasma Cell Neoplasms,Bortezomib
+Multiple Myeloma and Other Plasma Cell Neoplasms,Selinexor
+Multiple Myeloma and Other Plasma Cell Neoplasms,Zoledronic Acid
+Multiple Myeloma and Other Plasma Cell Neoplasms,Zoledronic Acid
+Multiple Myeloma and Other Plasma Cell Neoplasms,PAD
+Myeloproliferative Neoplasms,Doxorubicin Hydrochloride
+Myeloproliferative Neoplasms,Doxorubicin Hydrochloride
+Myeloproliferative Neoplasms,Arsenic Trioxide
+Myeloproliferative Neoplasms,Azacitidine
+Myeloproliferative Neoplasms,Daunorubicin Hydrochloride
+Myeloproliferative Neoplasms,Cyclophosphamide
+Myeloproliferative Neoplasms,Cyclophosphamide
+Myeloproliferative Neoplasms,Cytarabine
+Myeloproliferative Neoplasms,Cytarabine
+Myeloproliferative Neoplasms,Cyclophosphamide
+Myeloproliferative Neoplasms,Decitabine
+Myeloproliferative Neoplasms,Dasatinib
+Myeloproliferative Neoplasms,Daunorubicin Hydrochloride
+Myeloproliferative Neoplasms,Decitabine
+Myeloproliferative Neoplasms,Decitabine and Cedazuridine
+Myeloproliferative Neoplasms,Doxorubicin Hydrochloride
+Myeloproliferative Neoplasms,Fedratinib Hydrochloride
+Myeloproliferative Neoplasms,Imatinib Mesylate
+Myeloproliferative Neoplasms,Imatinib Mesylate
+Myeloproliferative Neoplasms,Decitabine and Cedazuridine
+Myeloproliferative Neoplasms,Fedratinib Hydrochloride
+Myeloproliferative Neoplasms,Ruxolitinib Phosphate
+Myeloproliferative Neoplasms,Nilotinib
+Myeloproliferative Neoplasms,Daunorubicin Hydrochloride
+Myeloproliferative Neoplasms,Ruxolitinib Phosphate
+Myeloproliferative Neoplasms,Dasatinib
+Myeloproliferative Neoplasms,Cytarabine
+Myeloproliferative Neoplasms,Nilotinib
+Myeloproliferative Neoplasms,Arsenic Trioxide
+Myeloproliferative Neoplasms,Azacitidine
+Myeloproliferative Neoplasms,ADE
+Neuroblastoma,Cyclophosphamide
+Neuroblastoma,Dinutuximab
+Neuroblastoma,Doxorubicin Hydrochloride
+Neuroblastoma,Dinutuximab
+Neuroblastoma,Vincristine Sulfate
+Neuroblastoma,BuMel
+Neuroblastoma,CEM
+Non-Hodgkin Lymphom,Acalabrutinib
+Non-Hodgkin Lymphom,Brentuximab Vedotin
+Non-Hodgkin Lymphom,Copanlisib Hydrochloride
+Non-Hodgkin Lymphom,Nelarabine
+Non-Hodgkin Lymphom,Axicabtagene Ciloleucel
+Non-Hodgkin Lymphom,Belinostat
+Non-Hodgkin Lymphom,Belinostat
+Non-Hodgkin Lymphom,Bendamustine Hydrochloride
+Non-Hodgkin Lymphom,Bendamustine Hydrochloride
+Non-Hodgkin Lymphom,Carmustine
+Non-Hodgkin Lymphom,Bleomycin Sulfate
+Non-Hodgkin Lymphom,Bortezomib
+Non-Hodgkin Lymphom,Brentuximab Vedotin
+Non-Hodgkin Lymphom,Brexucabtagene Autoleucel
+Non-Hodgkin Lymphom,Zanubrutinib
+Non-Hodgkin Lymphom,Acalabrutinib
+Non-Hodgkin Lymphom,Carmustine
+Non-Hodgkin Lymphom,Chlorambucil
+Non-Hodgkin Lymphom,Copanlisib Hydrochloride
+Non-Hodgkin Lymphom,Duvelisib
+Non-Hodgkin Lymphom,Cyclophosphamide
+Non-Hodgkin Lymphom,Denileukin Diftitox
+Non-Hodgkin Lymphom,Dexamethasone
+Non-Hodgkin Lymphom,Doxorubicin Hydrochloride
+Non-Hodgkin Lymphom,Duvelisib
+Non-Hodgkin Lymphom,Pralatrexate
+Non-Hodgkin Lymphom,Obinutuzumab
+Non-Hodgkin Lymphom,Ibritumomab Tiuxetan
+Non-Hodgkin Lymphom,Ibrutinib
+Non-Hodgkin Lymphom,Idelalisib
+Non-Hodgkin Lymphom,Ibrutinib
+Non-Hodgkin Lymphom,Recombinant Interferon Alfa-2b
+Non-Hodgkin Lymphom,Romidepsin
+Non-Hodgkin Lymphom,Pembrolizumab
+Non-Hodgkin Lymphom,Tisagenlecleucel
+Non-Hodgkin Lymphom,Lenalidomide
+Non-Hodgkin Lymphom,Chlorambucil
+Non-Hodgkin Lymphom,Mechlorethamine Hydrochloride
+Non-Hodgkin Lymphom,Methotrexate
+Non-Hodgkin Lymphom,Mogamulizumab-kpkc
+Non-Hodgkin Lymphom,Tafasitamab-cxix
+Non-Hodgkin Lymphom,Plerixafor
+Non-Hodgkin Lymphom,Mechlorethamine Hydrochloride
+Non-Hodgkin Lymphom,Nelarabine
+Non-Hodgkin Lymphom,Obinutuzumab
+Non-Hodgkin Lymphom,Denileukin Diftitox
+Non-Hodgkin Lymphom,Pembrolizumab
+Non-Hodgkin Lymphom,Plerixafor
+Non-Hodgkin Lymphom,Polatuzumab Vedotin-piiq
+Non-Hodgkin Lymphom,Polatuzumab Vedotin-piiq
+Non-Hodgkin Lymphom,Mogamulizumab-kpkc
+Non-Hodgkin Lymphom,Pralatrexate
+Non-Hodgkin Lymphom,Prednisone
+Non-Hodgkin Lymphom,Recombinant Interferon Alfa-2b
+Non-Hodgkin Lymphom,Lenalidomide
+Non-Hodgkin Lymphom,Rituximab
+Non-Hodgkin Lymphom,Rituximab and Hyaluronidase Human
+Non-Hodgkin Lymphom,Rituximab
+Non-Hodgkin Lymphom,Rituximab and Hyaluronidase Human
+Non-Hodgkin Lymphom,Romidepsin
+Non-Hodgkin Lymphom,Selinexor
+Non-Hodgkin Lymphom,Tafasitamab-cxix
+Non-Hodgkin Lymphom,Tazemetostat Hydrobromide
+Non-Hodgkin Lymphom,Tazemetostat Hydrobromide
+Non-Hodgkin Lymphom,Brexucabtagene Autoleucel
+Non-Hodgkin Lymphom,Tisagenlecleucel
+Non-Hodgkin Lymphom,Bendamustine Hydrochloride
+Non-Hodgkin Lymphom,Methotrexate
+Non-Hodgkin Lymphom,Rituximab
+Non-Hodgkin Lymphom,Bortezomib
+Non-Hodgkin Lymphom,Venetoclax
+Non-Hodgkin Lymphom,Venetoclax
+Non-Hodgkin Lymphom,Vinblastine Sulfate
+Non-Hodgkin Lymphom,Vincristine Sulfate
+Non-Hodgkin Lymphom,Vorinostat
+Non-Hodgkin Lymphom,Selinexor
+Non-Hodgkin Lymphom,Axicabtagene Ciloleucel
+Non-Hodgkin Lymphom,Zanubrutinib
+Non-Hodgkin Lymphom,Ibritumomab Tiuxetan
+Non-Hodgkin Lymphom,Vorinostat
+Non-Hodgkin Lymphom,Idelalisib
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",Melphalan
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",Bevacizumab
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",Bevacizumab
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",Carboplatin
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",Cisplatin
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",Cyclophosphamide
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",Doxorubicin Hydrochloride
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",Doxorubicin Hydrochloride Liposome
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",Doxorubicin Hydrochloride Liposome
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",Gemcitabine Hydrochloride
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",Gemcitabine Hydrochloride
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",Topotecan Hydrochloride
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",Olaparib
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",Melphalan
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",Niraparib Tosylate Monohydrate
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",Olaparib
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",Paclitaxel
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",Rucaparib Camsylate
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",Rucaparib Camsylate
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",Thiotepa
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",Topotecan Hydrochloride
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",Niraparib Tosylate Monohydrate
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",BEP
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",CARBOPLATIN-TAXOL
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",GEMCITABINE-CISPLATIN
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",JEB
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",PEB
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",VAC
+" Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",VeIP
+PAAD,Paclitaxel Albumin-stabilized Nanoparticle Formulation
+PAAD,Everolimus
+PAAD,Erlotinib Hydrochloride
+PAAD,Everolimus
+PAAD,Fluorouracil Injection
+PAAD,Fluorouracil Injection
+PAAD,Gemcitabine Hydrochloride
+PAAD,Gemcitabine Hydrochloride
+PAAD,Irinotecan Hydrochloride Liposome
+PAAD,Olaparib
+PAAD,Mitomycin
+PAAD,Olaparib
+PAAD,Irinotecan Hydrochloride Liposome
+PAAD,Paclitaxel Albumin-stabilized Nanoparticle Formulation
+PAAD,Sunitinib Malate
+PAAD,Sunitinib Malate
+PAAD,Erlotinib Hydrochloride
+PAAD,FOLFIRINOX
+PAAD,GEMCITABINE-CISPLATIN
+PAAD,GEMCITABINE-OXALIPLATIN
+PAAD,OFF
+PAAD,Everolimus
+PAAD,Lanreotide Acetate
+PAAD,Lutetium Lu 177-Dotatate
+PAAD,Lutetium Lu 177-Dotatate
+PAAD,Lanreotide Acetate
+Penile Cancer,Bleomycin Sulfate
+Pheochromocytoma and Paraganglioma,Iobenguane I 131
+Pheochromocytoma and Paraganglioma,Propranolol Hydrochloride
+Pheochromocytoma and Paraganglioma,Iobenguane I 131
+Pheochromocytoma and Paraganglioma,Propranolol Hydrochloride
+Pheochromocytoma and Paraganglioma,Iobenguane I 131
+Pheochromocytoma and Paraganglioma,Iobenguane I 131
+PRAD,Abiraterone Acetate
+PRAD,Apalutamide
+PRAD,Bicalutamide
+PRAD,Cabazitaxel
+PRAD,Bicalutamide
+PRAD,Darolutamide
+PRAD,Degarelix
+PRAD,Docetaxel
+PRAD,Leuprolide Acetate
+PRAD,Enzalutamide
+PRAD,Apalutamide
+PRAD,Degarelix
+PRAD,Flutamide
+PRAD,Goserelin Acetate
+PRAD,Cabazitaxel
+PRAD,Leuprolide Acetate
+PRAD,Leuprolide Acetate
+PRAD,Leuprolide Acetate
+PRAD,Olaparib
+PRAD,Mitoxantrone Hydrochloride
+PRAD,Nilutamide
+PRAD,Nilutamide
+PRAD,Darolutamide
+PRAD,Olaparib
+PRAD,Sipuleucel-T
+PRAD,Radium 223 Dichloride
+PRAD,Rucaparib Camsylate
+PRAD,Rucaparib Camsylate
+PRAD,Sipuleucel-T
+PRAD,Docetaxel
+PRAD,Radium 223 Dichloride
+PRAD,Enzalutamide
+PRAD,Goserelin Acetate
+PRAD,Abiraterone Acetate
+Retinoblastoma,Cyclophosphamide
+Retinoblastoma,CEV
+Rhabdomyosarcoma,Dactinomycin
+Rhabdomyosarcoma,Dactinomycin
+Rhabdomyosarcoma,Vincristine Sulfate
+SKCM,Imiquimod
+SKCM,Fluorouracil--Topical
+SKCM,Vismodegib
+SKCM,Fluorouracil--Topical
+SKCM,Fluorouracil--Topical
+SKCM,Imiquimod
+SKCM,Sonidegib
+SKCM,Sonidegib
+SKCM,Vismodegib
+SKCM,Cemiplimab-rwlc
+SKCM,Pembrolizumab
+SKCM,Cemiplimab-rwlc
+SKCM,Pembrolizumab
+SKCM,Aldesleukin
+SKCM,Cobimetinib
+SKCM,Cobimetinib
+SKCM,Dabrafenib
+SKCM,Dacarbazine
+SKCM,Dacarbazine
+SKCM,Aldesleukin
+SKCM,Talimogene Laherparepvec
+SKCM,Aldesleukin
+SKCM,Recombinant Interferon Alfa-2b
+SKCM,Ipilimumab
+SKCM,Pembrolizumab
+SKCM,Trametinib
+SKCM,Nivolumab
+SKCM,Nivolumab
+SKCM,Peginterferon Alfa-2b
+SKCM,Pembrolizumab
+SKCM,Aldesleukin
+SKCM,Recombinant Interferon Alfa-2b
+SKCM,Peginterferon Alfa-2b
+SKCM,Dabrafenib
+SKCM,Talimogene Laherparepvec
+SKCM,Trametinib
+SKCM,Vemurafenib
+SKCM,Ipilimumab
+SKCM,Vemurafenib
+Soft Tissue Sarcoma,Dactinomycin
+Soft Tissue Sarcoma,Dactinomycin
+Soft Tissue Sarcoma,Doxorubicin Hydrochloride
+Soft Tissue Sarcoma,Eribulin Mesylate
+Soft Tissue Sarcoma,Imatinib Mesylate
+Soft Tissue Sarcoma,Eribulin Mesylate
+Soft Tissue Sarcoma,Imatinib Mesylate
+Soft Tissue Sarcoma,Pazopanib Hydrochloride
+Soft Tissue Sarcoma,Tazemetostat Hydrobromide
+Soft Tissue Sarcoma,Tazemetostat Hydrobromide
+Soft Tissue Sarcoma,Trabectedin
+Soft Tissue Sarcoma,Pazopanib Hydrochloride
+Soft Tissue Sarcoma,Trabectedin
+Soft Tissue Sarcoma,VAC
+Solid Tumors Anywhere in the Body,Entrectinib
+Solid Tumors Anywhere in the Body,Pembrolizumab
+Solid Tumors Anywhere in the Body,Larotrectinib Sulfate
+Solid Tumors Anywhere in the Body,Pembrolizumab
+Solid Tumors Anywhere in the Body,Entrectinib
+Solid Tumors Anywhere in the Body,Larotrectinib Sulfate
+STAD,Ramucirumab
+STAD,Docetaxel
+STAD,Doxorubicin Hydrochloride
+STAD,Fluorouracil Injection
+STAD,Fluorouracil Injection
+STAD,Trastuzumab
+STAD,Pembrolizumab
+STAD,Trifluridine and Tipiracil Hydrochloride
+STAD,Mitomycin
+STAD,Pembrolizumab
+STAD,Ramucirumab
+STAD,Docetaxel
+STAD,Trastuzumab
+STAD,Trifluridine and Tipiracil Hydrochloride
+STAD,FU-LV
+STAD,TPF
+STAD,XELIRI
+STAD,Everolimus
+STAD,Everolimus
+STAD,Everolimus
+STAD,Lanreotide Acetate
+STAD,Lanreotide Acetate
+Testicular Cancer,Bleomycin Sulfate
+Testicular Cancer,Cisplatin
+Testicular Cancer,Dactinomycin
+Testicular Cancer,Dactinomycin
+Testicular Cancer,Etoposide Phosphate
+Testicular Cancer,Etoposide
+Testicular Cancer,Etoposide Phosphate
+Testicular Cancer,Ifosfamide
+Testicular Cancer,Ifosfamide
+Testicular Cancer,Vinblastine Sulfate
+Testicular Cancer,BEP
+Testicular Cancer,JEB
+Testicular Cancer,PEB
+Testicular Cancer,VeIP
+Testicular Cancer,VIP
+THCA,Cabozantinib-S-Malate
+THCA,Vandetanib
+THCA,Cabozantinib-S-Malate
+THCA,Dabrafenib Mesylate
+THCA,Doxorubicin Hydrochloride
+THCA,Lenvatinib Mesylate
+THCA,Lenvatinib Mesylate
+THCA,Trametinib
+THCA,Sorafenib Tosylate
+THCA,Selpercatinib
+THCA,Selpercatinib
+THCA,Sorafenib Tosylate
+THCA,Dabrafenib Mesylate
+THCA,Trametinib
+THCA,Vandetanib
+Vaginal Cancer,Recombinant HPV Quadrivalent Vaccine
+Vaginal Cancer,Recombinant HPV Nonavalent Vaccine
+Vaginal Cancer,Recombinant Human Papillomavirus (HPV) Nonavalent Vaccine
+Vaginal Cancer,Recombinant Human Papillomavirus (HPV) Quadrivalent Vaccine
+Vulvar Cancer,Recombinant HPV Quadrivalent Vaccine
+Vulvar Cancer,Recombinant HPV Nonavalent Vaccine
+Vulvar Cancer,Recombinant Human Papillomavirus (HPV) Nonavalent Vaccine
+Vulvar Cancer,Recombinant Human Papillomavirus (HPV) Quadrivalent Vaccine
+Vulvar Cancer,Bleomycin Sulfate
+Wilms Tumor and Other Childhood Kidney Cancers,Dactinomycin
+Wilms Tumor and Other Childhood Kidney Cancers,Dactinomycin
+Wilms Tumor and Other Childhood Kidney Cancers,Doxorubicin Hydrochloride
+Wilms Tumor and Other Childhood Kidney Cancers,Vincristine Sulfate
